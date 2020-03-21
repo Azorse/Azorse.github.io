@@ -1,0 +1,77 @@
+body {
+  background-image: url("../images/cityscape-and-skyline-of-portland-oregon-dark.jpg");
+}
+
+
+h1 {
+  color:black;
+}
+
+p {
+  color: black;
+  font-size: 14pt;
+}
+
+footer {
+  background-color: #343a40;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+ }
+
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
+
+.lead {
+  font-size: 20pt;;
+}
+
+.jumbotron-fluid {
+  opacity: 0.3;
+}
+
+.footercase{
+  height: 55px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+
+}
+
+.icons{
+  background-color: #343a40;
+}
+
+
+.page-body {
+  background-color: rgba(80, 80, 80, 0.9);
+  font-size: 20pt;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 4px;
+}
+
+#location {
+  margin-top: -.5em;
+}
+
+#linkdin {
+  color:  rgba(80, 80, 80, 0)
+}
+
+#mern {
+  position: relative;
+  margin-top: 200px;
+  opacity: 75%;
+}
+
+#mugshot {
+  position: relative;
+  margin-top: -3em;
+  margin-left: 8em;
+  border: solid 1px black;
+  border-radius: 25%;
+}
+

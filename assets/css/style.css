@@ -17,7 +17,26 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
- }
+}
+
+
+@media screen and (max-width: 400px) {
+  footer {
+    background-color: #343a40;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+   }
+}
+
+@media screen and (max-width: 800px) {
+  footer {
+    background-color: #343a40;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+   }
+}
 
 .navbar-nav > li{
   padding-left:30px;
